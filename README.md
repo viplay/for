@@ -1,4 +1,4 @@
-# for
+#
 # Mais facil para se instalado os pacotes!
 #
 # Para execulta e simples só digitar sh for.sh
